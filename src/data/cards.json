@@ -1,0 +1,32 @@
+[
+  {
+    "champion": "Viktor",
+    "name": "Stupefy",
+    "energyCost": 2,
+    "powerCost": 1,
+    "domains": ["Chaos", "Control"],
+    "cardType": "Spell",
+    "timing": "Main Phase",
+    "effectText": "Stun an opposing unit until your next turn."
+  },
+  {
+    "champion": "Viktor",
+    "name": "Blood Money",
+    "energyCost": 4,
+    "powerCost": 2,
+    "domains": ["Ambition", "Tactics"],
+    "cardType": "Spell",
+    "timing": "Main Phase",
+    "effectText": "Deal 3 damage to a unit. Gain 1 Power if it is defeated this turn."
+  },
+  {
+    "champion": "Viktor",
+    "name": "Wages of Pain",
+    "energyCost": 7,
+    "powerCost": 4,
+    "domains": ["Chaos", "Execution"],
+    "cardType": "Spell",
+    "timing": "Main Phase",
+    "effectText": "Deal 5 damage divided among up to two targets."
+  }
+]
